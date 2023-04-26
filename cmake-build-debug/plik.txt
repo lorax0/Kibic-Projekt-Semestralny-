@@ -1,0 +1,4 @@
+1.0 15.2 Polonia
+5.4 17.5 Legia
+13.1 7.2 Legia
+24.5 12.4 Polonia

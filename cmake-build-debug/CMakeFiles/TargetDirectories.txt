@@ -1,0 +1,3 @@
+C:/Users/Franek/Desktop/Studia/Projekt2/cmake-build-debug/CMakeFiles/Projekt2.dir
+C:/Users/Franek/Desktop/Studia/Projekt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Franek/Desktop/Studia/Projekt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
